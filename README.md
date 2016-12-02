@@ -1,10 +1,12 @@
 # osxrice
 
-removes stoplights from os x titlebars (except on mouseover)
+currently only removes stoplights from os x titlebars (except on mouseover)
 ----
+
+[img]https://imgur.com/a/y9VjS[/img]
 
 Appearance.car files go in /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources
 
-You'll probably need to use both the graphite and dark theme for this to work
+Select Graphite theme in system menu
 
-Be sure to make backups, I've only tested this on el cap.
+Tested on El Capitan & Sierra (make backups anyways!)
