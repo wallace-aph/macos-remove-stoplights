@@ -3,7 +3,7 @@
 currently only removes stoplights from os x titlebars (except on mouseover)
 ----
 
-![Screenshot](https://imgur.com/a/y9VjS)
+![Screenshot](https://i.imgur.com/4cH2hRh.png)
 
 
 Appearance.car files go in /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources
