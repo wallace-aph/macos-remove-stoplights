@@ -10,4 +10,4 @@ Appearance.car files go in /System/Library/CoreServices/SystemAppearance.bundle/
 
 Select Graphite theme in system menu
 
-Tested on El Capitan & Sierra (make backups anyways!)
+Tested on El Capitan & Sierra (make backups anyways!) I have heard it may not work on Yosemite.
