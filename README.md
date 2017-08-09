@@ -1,7 +1,6 @@
 # osxrice
 
-currently only removes stoplights from os x titlebars (except on mouseover)
-----
+Removes stoplights from bars.
 
 ![Screenshot](https://i.imgur.com/4cH2hRh.png)
 
