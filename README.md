@@ -1,6 +1,8 @@
 # macos
 
-Removes stoplights from bars. Current version works on El Capitan and Sierra (High Sierra does NOT work, I will make a working copy when I finally update
+Removes stoplights from bars. Works on ElCap/Sierra + High Sierra, choose the right folder.
+
+A cool apple logo replacement can be found in flowerlogo/
 
 ![Screenshot](https://i.imgur.com/4cH2hRh.png)
 
